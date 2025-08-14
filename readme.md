@@ -45,7 +45,9 @@ CC BY-SA 4.0 license inherited from EnTwine collection, with the exception of or
 
 ### Authors
 Jaime Simons - jaime.simons@maastrichtuniversity.nl
+
 Author GitHub Link: https://jaimesimns.github.io/artifacts-and-sound/
+
 Author Website: https://jaimesimons.weebly.com/
 
 ## Acknowledgments
