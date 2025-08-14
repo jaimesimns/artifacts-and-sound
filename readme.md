@@ -15,8 +15,9 @@ index.html - the Twine adventure, including images, audio, and text.
 
  
 ## Getting Started
-To explore the Twine, visit <https://jaimesimns.github.io/artifacts-and-sound/>.
-To download the Twine and make your own version, download the <index.html> file and open it in Twine.
+To explore the Twine as the completed interactive, visit <https://jaimesimns.github.io/artifacts-and-sound/>. 
+
+To check out the files via GitHub, visit <https://github.com/jaimesimns/artifacts-and-sound/tree/gh-pages>. To download the Twine and make your own version, download the <index.html> file and open it in Twine.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
