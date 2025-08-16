@@ -37,7 +37,7 @@ This Twine was designed for use in a museum and would be well-suited for adaptat
 ## Licensing and Citation
 
 ### License
-CC BY-SA 4.0 license inherited from EnTwine collection, with the exception of oral interviews which may not be reproduced or edited. See [slug provided by editors] for more information.
+CC BY-SA 4.0 license inherited from EnTwine collection, with the exception of oral interviews which may not be reproduced or edited.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
